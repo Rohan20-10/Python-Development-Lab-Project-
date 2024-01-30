@@ -2,5 +2,5 @@
 # Travelling Salesman Problem
 # Genetic Algorithm 
 # Contributors : 
-#    Rohan Jayprakash Parab (221080053)
-#    Subodh Janardan Salgaonkar (221080061)
+#    Rohan Parab (221080053)
+#    Subodh Salgaonkar (221080061)
